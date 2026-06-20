@@ -1,2 +1,12 @@
-# Line-following-Robot
- Designed and developed an autonomous robot using sensors and motor control techniques to accurately detect and follow predefined paths.
+Components Used
+Arduino Uno
+L298N Motor Driver
+IR Sensor Array (5 sensors)
+Ultrasonic Sensor (HC-SR04)
+DC Motors (2x)
+Robot Chassis
+Caster Wheel
+Battery Pack
+Switch
+Jumper Wires
+Breadboard
